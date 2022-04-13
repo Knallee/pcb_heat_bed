@@ -1,0 +1,8 @@
+History/
+__Previews/
+Project Logs for pcb_heater/
+Project Outputs for pcb_heater/
+
+!*.SchDoc
+!*.PcbDoc
+!*.SchLib
